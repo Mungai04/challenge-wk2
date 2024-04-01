@@ -22,7 +22,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone git@github.com:Mungai04/challenge-wk2.git
 
 ```
 
