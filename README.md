@@ -22,7 +22,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone git@github.com:Mungai04/challenge-wk2.git
+git clone https://github.com/Mungai04/challenge-wk2.git
 
 ```
 
